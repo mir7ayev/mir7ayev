@@ -25,9 +25,10 @@ Hardworking and highly motivated professional with a strong commitment to enhanc
 - 🌱 Actively learning Shell scripting, AWS, Microservices, and Database management.
 - 👯 Seeking collaborations on innovative backend development projects or open-source initiatives.
 - 💬 Ask me about: Python development, Django, API integration, DevOps practices, or backend development strategies!
-  
 
 **`Fun fact: "The universe is full of magical things patiently waiting for our wits to grow sharper." — Eden Phillpotts`**
+
+#
 
 ### 🛠️ Technical Skills <img src="https://example.com/path/to/your/image.gif" width="50">
 <p>
@@ -42,6 +43,8 @@ Hardworking and highly motivated professional with a strong commitment to enhanc
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+#
 
 ### 🌟 Soft Skills <img src="https://example.com/path/to/your/image.gif" width="50">
 - Teamwork and Collaboration
