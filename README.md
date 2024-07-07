@@ -22,11 +22,12 @@ Hardworking and highly motivated professional with a strong commitment to enhanc
 ---
 
 - 🔭 Currently enhancing backend services for a new eCommerce platform.
-- 👯 Seeking collaborations on innovative backend development projects or open-source initiatives.
 - 🌱 Actively learning Shell scripting, AWS, Microservices, and Database management.
+- 👯 Seeking collaborations on innovative backend development projects or open-source initiatives.
 - 💬 Ask me about: Python development, Django, API integration, DevOps practices, or backend development strategies!
-- 📫 How to reach me: Connect via [Telegram](https://t.me/mir7ayev) or [Instagram](https://www.instagram.com/samirxonmirzayev/).
-- ⚡ Fun fact: "The universe is full of magical things patiently waiting for our wits to grow sharper." — Eden Phillpotts
+  
+
+**`Fun fact: "The universe is full of magical things patiently waiting for our wits to grow sharper." — Eden Phillpotts`**
 
 ### 🛠️ Technical Skills <img src="https://example.com/path/to/your/image.gif" width="50">
 <p>
