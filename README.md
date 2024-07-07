@@ -30,7 +30,7 @@ Hardworking and highly motivated professional with a strong commitment to enhanc
 
 #
 
-### 🛠️ Technical Skills <img src="https://example.com/path/to/your/image.gif" width="50">
+### 💼 Skills <img src="https://example.com/path/to/your/image.gif" width="50">
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -42,15 +42,11 @@ Hardworking and highly motivated professional with a strong commitment to enhanc
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teamwork_and_Collaboration-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excellent_Communication-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/High_Quality_Code_Writing-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms_and_Data_Structures-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Debugging_and_Testing-gray?style=for-the-badge"/>
 </p>
-
-#
-
-### 🌟 Soft Skills <img src="https://example.com/path/to/your/image.gif" width="50">
-- Teamwork and Collaboration
-- Excellent Communication
-- High-Quality Code Writing
-- Algorithms and Data Structures
-- Debugging and Testing
 
 ---
